@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: gray;
+  height: 100px;
+  width: 1000px;
+
+}
+.column {
+  background-color: lightgray;
+  height: 575px;
+  width: 75px;
+  float: left;
+
+}
+.column2 {
+  background-color: lightgray;
+  height: 575px;
+  width: 75px;
+  float: right
+
+}
+.whiteBox {
+  background-color: white;
+  height: ;
+  width: ;
+
+}
+footer {
+  background-color: black;
+  width: 750px;
+  height: 75px;
+  margin-top: 500px;
+  margin-left: 75px;
+  margin-right: 75px;
+
+}

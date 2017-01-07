@@ -1,0 +1,48 @@
+.blueRow {
+  background-color: blue;
+  height: 100px;
+  width: 1000px;
+}
+.cyanRow {
+  background-color: cyan;
+  height: 100px;
+  width: 1000px;
+}
+.greenRow {
+  background-color: green;
+  height: 100px;
+  width: 1000px;
+}
+.yellowRow {
+  background-color: yellow;
+  height: 100px;
+  width: 1000px;
+}
+.textBox {
+  height: 400px;
+  width: 1000px;
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+
+}
+body {
+  height: 100%;
+  width: 100%;
+}
+header {
+  width: 100%;
+  height: 100px;
+  background-color: gray;
+  display: flex;
+}
+.blueBox {
+  background-color: blue;
+  height: 75px;
+  width: 75px;
+  flex: left;
+  margin-left: 20px;
+  margin-top: 15px;
+
+}
